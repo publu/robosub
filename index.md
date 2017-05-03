@@ -30,13 +30,13 @@ Historically, the University of Texas at Dallas has placed among the top three i
 - Abdul samad Kholia
 - Pablo Peillard
 
-![Image](file:///Users/collagelaptop/Desktop/Robosub_Team.png)
+![Image](assets/images/Robosub_Team.png)
 
 
 ## ULYSSES
 The company’s ROV is named Ulysses after the U.S.S. submarine, and also after the submarine from the Disney movie Atlantis.
 
-![Image](file:///Users/collagelaptop/Desktop/Robosub.png)
+![Image](assets/images/Robosub.png)
 
 ### Safety First 
 * Emergency Shutoff
