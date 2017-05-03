@@ -79,11 +79,9 @@ Participating in the Ranger Class which has 4 stages
 
 Robot will be tethered 
 
-[MATE International ROV Competition] 
-(http://houston.marinetech2.org/)
+[MATE International ROV Competition](http://houston.marinetech2.org/)
 
-[2017 Ranger Class ] 
-(http://www.marinetech.org/ranger_2017/)
+[2017 Ranger Class ](http://www.marinetech.org/ranger_2017/)
 
 
 ### Robosub Nation: Robosub 
@@ -113,11 +111,9 @@ Vehicle will have to scuttle a ship (touch buoys)
 
 - Bury a treasure (retrieve object, surface, move/release object)
 
-[Robonation: Robosub]
-(http://www.robonation.org/competition/robosub)
+[Robonation: Robosub](http://www.robonation.org/competition/robosub)
 
-[Teams Particpating in the competition] 
-(http://www.robonation.org/competition/robosub)
+[Teams Particpating in the competition](http://www.robonation.org/competition/robosub)
 
 
 
