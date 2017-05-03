@@ -4,7 +4,7 @@ Historically, the University of Texas at Dallas has placed among the top three i
 
 
 
-##About the Team \\(^.^)/
+## About the Team \\(^.^)/
 **FACULTY**
 
 - Jerry 
@@ -33,12 +33,12 @@ Historically, the University of Texas at Dallas has placed among the top three i
 ![Image](file:///Users/collagelaptop/Desktop/Robosub_Team.png)
 
 
-##ULYSSES
+## ULYSSES
 The company’s ROV is named Ulysses after the U.S.S. submarine, and also after the submarine from the Disney movie Atlantis.
 
 ![Image](file:///Users/collagelaptop/Desktop/Robosub.png)
 
-###Safety First 
+### Safety First 
 * Emergency Shutoff
 
 * Neutrally (slightly positive) buoyant
@@ -48,7 +48,7 @@ The company’s ROV is named Ulysses after the U.S.S. submarine, and also after 
 * All connections are soldered and a heat shrink was applied twice to ensure water tightness
  
 
-###Special Features (O.o)
+### Special Features (O.o)
 * High strength aluminum frame
 
 * Waterproof interior for transportation of sensitive goods or electronics
@@ -63,7 +63,7 @@ The company’s ROV is named Ulysses after the U.S.S. submarine, and also after 
 
 * Can control 5 degrees of freedom
 
-##COMPETITIONS 
+## COMPETITIONS 
 
 ###Marine Advanced Technology Education (MATE)  
 
@@ -86,7 +86,7 @@ Robot will be tethered
 (http://www.marinetech.org/ranger_2017/)
 
 
-###Robosub Nation: Robosub 
+### Robosub Nation: Robosub 
 
 International competition: July 24-30, 2017  
 Location: SSC Pacific TRANSDEC, San Diego, CA
