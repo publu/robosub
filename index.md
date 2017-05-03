@@ -4,7 +4,7 @@ Historically, the University of Texas at Dallas has placed among the top three i
 
 
 
-##About the Team \\(^.^)/
+#About the Team \\(^.^)/
 **FACULTY**
 
 - Jerry 
