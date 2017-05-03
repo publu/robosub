@@ -65,7 +65,7 @@ The company’s ROV is named Ulysses after the U.S.S. submarine, and also after 
 
 ## COMPETITIONS 
 
-###Marine Advanced Technology Education (MATE)  
+### Marine Advanced Technology Education (MATE)  
 
 Regional competition: May 13, 2017  
 Location: San Jacinto College Maritme Technology & Training Center
