@@ -7,9 +7,9 @@ Historically, the University of Texas at Dallas has placed among the top three i
 ## About the Team \\(^.^)/
 **FACULTY**
 
-- Jerry 
+- Jerry Alexander
 - Nicholas Gans 
-- Rod 
+- Rod Wetterskog
 
 
 **MEMBERS**
