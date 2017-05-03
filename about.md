@@ -10,11 +10,11 @@
 
  *We have members ranging from freshman to graduate students of all different engineering majors.*
 
+- Abhinav Chennapareddy
 - Sabrina Banh 
 - Eric Carter
 - Ben Galicia 
 - Eddie Bates
-- Abhinav Chennapareddy
 - Mayur Talole
 - Amrr Okasheh
 - Tam Nguyen
