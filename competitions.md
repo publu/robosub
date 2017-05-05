@@ -5,6 +5,7 @@
 Regional competition: May 13, 2017  
 Location: San Jacinto College Maritme Technology & Training Center
  
+ 
 Participating in the Ranger Class which has 4 stages 
 
 - Commerce: Hyperloop Construction  
