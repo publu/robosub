@@ -1,9 +1,9 @@
 ## About the Team \\(^.^)/
 **FACULTY**
 
-- Jerry 
+- Jerry Alexander
 - Nicholas Gans 
-- Rod 
+- Rodney Wetterskog
 
 
 **MEMBERS**
