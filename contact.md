@@ -8,7 +8,7 @@
 **_Mechanical Engineer Lead:_** 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eric Carter: [eac160430@utdallas.edu](mailto:eac160430@utdallas.edu) 
 
-**_Electrical Engineer Lead:_**   
+**Computer Engineer Lead:_**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abhinav Chennapareddy: [axc138030@utdallas.edu](mailto:axc138030@utdallas.edu) 
 
 
